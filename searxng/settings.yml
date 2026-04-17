@@ -1,0 +1,53 @@
+use_default_settings: true
+
+general:
+  instance_name: "OSINT Agent SearXNG"
+
+search:
+  formats:
+    - html
+    - json
+
+server:
+  secret_key: "change-this-to-any-random-string-abc123xyz"
+  limiter: false
+  public_instance: false
+
+engines:
+  # Global/Western
+  - name: google
+    disabled: false
+  - name: bing
+    disabled: false
+  - name: duckduckgo
+    disabled: false
+  - name: wikipedia
+    disabled: false
+  - name: wikidata
+    disabled: false
+  
+  # Chinese coverage
+  - name: baidu
+    disabled: false
+  
+  # Russian coverage
+  - name: yandex
+    disabled: false
+  
+  # Japanese coverage
+  - name: yahoo
+    disabled: false
+  
+  # News sources
+  - name: google news
+    disabled: false
+  - name: bing news
+    disabled: false
+  - name: reuters
+    disabled: false
+  - name: yahoo news
+    disabled: false
+
+outgoing:
+  request_timeout: 10.0
+  max_request_timeout: 15.0

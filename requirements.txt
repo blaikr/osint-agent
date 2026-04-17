@@ -1,0 +1,17 @@
+langgraph
+langchain
+langchain-core
+langchain-anthropic
+langchain-ollama
+langchain-groq
+langchain-chroma
+chromadb
+sentence-transformers
+anthropic
+crawl4ai
+ddgs
+requests
+python-dotenv
+pydantic
+typing_extensions
+streamlit

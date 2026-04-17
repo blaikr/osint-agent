@@ -150,7 +150,7 @@ what's in memory
 what have we investigated
 ```
 
-Or ask questions like *"what do we know about Anthropic"* — the agent pulls the stored report verbatim without re-investigating.
+Or ask questions like *"what do we know about Anthropic"* - the agent pulls the stored report verbatim without re-investigating.
 
 ---
 
@@ -192,7 +192,7 @@ This tool searches **public, open-source information only**. It cannot and does 
 - Access content behind logins (private social media, paywalled articles)
 - Hack, scrape restricted databases, or bypass platform protections
 - Access commercial data broker tools (Palantir, LexisNexis, Pipl)
-- Guarantee accuracy — every investigation should be human-verified before acting on it
+- Guarantee accuracy - every investigation should be human-verified before acting on it
 
 Intended for research, journalism, personal due diligence, and educational use.
 
@@ -210,10 +210,10 @@ Intended for research, journalism, personal due diligence, and educational use.
 
 ## 👤 Author
 
-Built by [Rami Blaik](https://github.com/blaikr) — CS undergrad at UT Dallas.
+Built by [Rami Blaik](https://github.com/blaikr) - CS undergrad at UT Dallas.
 
 Other projects:
-- [personalized-llm](https://github.com/blaikr/personalized-llm) — Custom LLM fine-tuning with SFT, IFT, and DPO
+- [personalized-llm](https://github.com/blaikr/personalized-llm) - Custom LLM fine-tuning with SFT, IFT, and DPO
 
 ---
 
